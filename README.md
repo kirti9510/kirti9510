@@ -3,8 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 AI Enthusiast
 -------------
-
-I love Programming. I'm more of a self-learner who loves to learn from the Internet. I started with learning HTML in my school and got interest in web development. But later on, the numbers and the data over the internet fascinated me a lot and made my interest in Data Science. In my 2nd year of B. Tech, I started looking for a project idea for my final year and got introduced to the Machine Learning and AI. I have worked on the project "Network Intrusion Detection System" and wrote one research paper. I love exploring datasets, visualizing it and train the models. I also have interest in writing research papers.
+I love Programming. I'm more of a self-learner who loves to learn from the Internet. I started with learning HTML in my school and got interest in web development. But later on, the numbers and the data over the internet fascinated me a lot and made my interest in Data Science. In my 2nd year of B. Tech, I started looking for a project idea for my final year and got introduced to the Machine Learning and AI. I have worked on the project "Network Intrusion Detection System" and wrote one research paper. I love exploring datasets, visualizing it and train the models. I also have interest in writing research papers. I have done practical implementation of TensorFlow. Currently pursuing M.Tech degree from IGDTUW, Delhi. Seeking to get opportunities to showcase my skills and contribute to the company’s growth. Seeking a challenging position where I can learn new skills, expand my knowledge and leverage my learnings.
 
 # 💫 About Me:
 🌍  I'm based in New Delhi, India<br>✉️  You can contact me at [kirti21041999@gmail.com](mailto:kirti21041999@gmail.com)<br>🧠  I'm learning Tensorflow<br>🤝  I'm open to collaborating on AI-ML in healthcare
