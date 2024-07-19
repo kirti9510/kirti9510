@@ -9,10 +9,10 @@ I love working with datasets, visualizing data, training models, and writing res
 
 My recent projects include an "Email Monitoring System" for spam detection using NLP and supervised learning algorithms, and "Newsbot," a Streamlit application for summarizing and answering questions about news articles using NLP models from Hugging Face.
 
-I have published two research papers: "Dimensionality Reduction of KDD-99 using Self-Perpetuating Algorithm" and "Email Spam Detection using Amazon Web Services (AWS)" I am eager to leverage my skills to contribute to a company's growth, seeking opportunities to learn, expand my knowledge, and take on new challenges.
+I have published two research papers: "Dimensionality Reduction of KDD-99 using Self-Perpetuating Algorithm" and "Email Spam Detection using Amazon Web Services (AWS)" I am eager to leverage my skills to contribute to a company's growth, seeking opportunities to learn, expand my knowledge, and take on new challenges
 
 # 💫 About Me:
-🌍  I'm based in New Delhi, India<br>✉️  You can contact me at [kirti21041999@gmail.com](mailto:kirti21041999@gmail.com)<br>🧠  Currently enhancing my skills in TensorFlow<br>🤝  Open to collaborating on AI and ML projects, particularly in healthcare
+🌍  I'm based in New Delhi, India<br>✉️  You can contact me at [kirti21041999@gmail.com](mailto:kirti21041999@gmail.com)<br>🧠  Currently enhancing my skills in TensorFlow<br>🤝  Open to collaborating on AI and ML projects, particularly in healthcare.
 
 
 ## 🌐 Socials:
