@@ -1,15 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kirti Sharma
 ====================================================================================================================================
 
-AI and Data Science Enthusiast
+Machine Learning and Data Science Enthusiast
 -------------
-I am a passionate programmer and self-learner who enjoys exploring new technologies. My journey began with HTML in school, leading to an interest in web development and later, Data Science. During my B.Tech in Computer Science and Engineering at Parul University, I discovered Machine Learning and AI, which led to my project on "Network Intrusion Detection System" and my first research paper.
+Welcome to my GitHub! I’m Kirti Sharma, a graduate student specializing in Artificial Intelligence, with a strong background in machine learning, data science, and software development. Currently, I am pursuing my M.Tech in AI from Indira Gandhi Delhi Technical University, where I have consistently excelled academically.
 
-I love working with datasets, visualizing data, training models, and writing research papers. I have practical experience with TensorFlow, NumPy, Pandas, Scikit-learn, and Keras. Currently, I am pursuing an M.Tech in Artificial Intelligence from IGDTUW, Delhi.
+My work revolves around exploring the potential of AI to create impactful solutions, particularly in areas like cybersecurity and natural language processing. I have developed a deep proficiency in Python, TensorFlow, Keras, and AWS services, among other tools and frameworks, enabling me to work on complex and scalable projects.
 
-My recent projects include an "Email Monitoring System" for spam detection using NLP and supervised learning algorithms, and "Newsbot," a Streamlit application for summarizing and answering questions about news articles using NLP models from Hugging Face.
+I am also proficient in using tools like IBM Cognos Analytics, Power BI, and Tableau for data analysis and visualization.
 
-I have published two research papers: "Dimensionality Reduction of KDD-99 using Self-Perpetuating Algorithm" and "Email Spam Detection using Amazon Web Services (AWS)" I am eager to leverage my skills to contribute to a company's growth, seeking opportunities to learn, expand my knowledge, and take on new challenges
+On this platform, you’ll find a range of repositories that reflect my commitment to innovation and continuous learning. My contributions here are driven by a desire to explore new challenges and share knowledge with the community.
+
+Feel free to explore my work and connect if you’re interested in collaboration or just want to discuss ideas. I’m always open to new opportunities and eager to contribute to meaningful projects.
 
 # 💫 About Me:
 🌍  I'm based in New Delhi, India<br>✉️  You can contact me at [kirti21041999@gmail.com](mailto:kirti21041999@gmail.com)<br>🧠  Currently enhancing my skills in TensorFlow<br>🤝  Open to collaborating on AI and ML projects, particularly in healthcare.
