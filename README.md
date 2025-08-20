@@ -1,18 +1,3 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kirti Sharma
-====================================================================================================================================
-
-Machine Learning and Data Science Enthusiast
--------------
-Welcome to my GitHub! I’m Kirti Sharma, a graduate student specializing in Artificial Intelligence, with a strong background in machine learning, data science, and software development. Currently, I am pursuing my M.Tech in AI from Indira Gandhi Delhi Technical University, where I have consistently excelled academically.
-
-My work revolves around exploring the potential of AI to create impactful solutions, particularly in areas like cybersecurity and natural language processing. I have developed a deep proficiency in Python, TensorFlow, Keras, and AWS services, among other tools and frameworks, enabling me to work on complex and scalable projects.
-
-I am also proficient in using tools like IBM Cognos Analytics, Power BI, and Tableau for data analysis and visualization.
-
-On this platform, you’ll find a range of repositories that reflect my commitment to innovation and continuous learning. My contributions here are driven by a desire to explore new challenges and share knowledge with the community.
-
-Feel free to explore my work and connect if you’re interested in collaboration or just want to discuss ideas. I’m always open to new opportunities and eager to contribute to meaningful projects.
-
 # 💫 About Me:
 🌍  I'm based in New Delhi, India<br>✉️  You can contact me at [kirti21041999@gmail.com](mailto:kirti21041999@gmail.com)<br>🧠  Currently enhancing my skills in TensorFlow<br>🤝  Open to collaborating on AI and ML projects, particularly in healthcare.
 
